@@ -10,7 +10,7 @@ def play():
     if is_win(user, computer):
         return 'You won!'
 
-     return 'you lost'
+        return 'you lost'
 
 
 def is_win(player, opponent):
